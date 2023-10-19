@@ -1,0 +1,9 @@
+C:\Users\it01\Desktop\Bitrix24Export\bin\Debug\Bitrix24Export.dll
+C:\Users\it01\Desktop\Bitrix24Export\bin\Debug\Bitrix24Export.pdb
+C:\Users\it01\Desktop\Bitrix24Export\bin\Debug\Newtonsoft.Json.dll
+C:\Users\it01\Desktop\Bitrix24Export\bin\Debug\Newtonsoft.Json.xml
+C:\Users\it01\Desktop\Bitrix24Export\obj\Debug\Bitrix24Export.csproj.AssemblyReference.cache
+C:\Users\it01\Desktop\Bitrix24Export\obj\Debug\Bitrix24Export.csproj.CoreCompileInputs.cache
+C:\Users\it01\Desktop\Bitrix24Export\obj\Debug\Bitrix24Export.csproj.CopyComplete
+C:\Users\it01\Desktop\Bitrix24Export\obj\Debug\Bitrix24Export.dll
+C:\Users\it01\Desktop\Bitrix24Export\obj\Debug\Bitrix24Export.pdb
